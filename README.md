@@ -1,2 +1,2 @@
 # first-repository
-student data anal
+student data analysis
